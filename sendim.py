@@ -6,9 +6,9 @@ testing seding instant message
 
 import xmpp
 
-username = 'ghandel333'
-passwd = 'Iluvmurr<3!'
-to='ghandel@wisc.edu'
+username = ''
+passwd = ''
+to='someone@example.com'
 msg='hello :)'
 
 
