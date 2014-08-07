@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 sudo kill `cat /var/run/motion/motion.pid`
+=======
+sudo kill `cat /var/run/motion/motion.pid`
+echo "Motion stopped."
+>>>>>>> master
